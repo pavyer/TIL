@@ -49,6 +49,8 @@ Redundant after the first three
 
 ### 5.Difference b/w common terms. Ehh    
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#Summary  
+  
+Worth a quick skim.
 
 ### 6. Explanation of client-server model of web from MDN. Ehh    
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#Clients_and_servers  
