@@ -29,6 +29,18 @@ https://vimeo.com/128575084
 
 ### 3. One of the best one page guide to what the internet is and how it works from MDN    
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work#Summary  
+  
+Can't really do justice to the write up through a summary. The one page is a really summary of the internet and the web and provides a really good understanding and model for reasoning about the internet and the services built on top of it, of which the Web is an example.
+  
+1. Difference between router and modem?
+2. What is a router?
+3. What is a modem?
+4. Differentiate between the internet vs the Web.
+5. In what way are Web, Email and IRC similar? (Services built on top of Internet.)
+6. How do we keep track of all the computers connected to the internet?
+7. What's a domain name?
+  
+Internet is simply a network of networks. And you can keep on scaling this and keeping on adding networks and keep on linking the networks. And run whatever service you want to over the network. Web, email, IRC, FTP or some other service. SSH is a protocol not a service. There's a SSH daemon or service on SSH servers to which SSH clients connect. 
 
 ### 4.Ok guide to how the internet works without too much of the details, but the right model for understanding the web and internet    
 https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be&t=46s  
