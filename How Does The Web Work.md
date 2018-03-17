@@ -16,7 +16,16 @@ https://vimeo.com/128575085
 
 
 ### 2. Short animated video on how search works at a very big picture level  
-https://vimeo.com/128575084    
+https://vimeo.com/128575084  
+  
+**Key words from the video**
+1. Search engine -- Program for search
+2. Web crawlers -- Search engines use these. Programs that go to the web and link from one page to the other and keep on doing that. They send a copy of each of the pages they've crawled through to the main search engine.
+3. Index -- The engine builds an indes of words contained on each of the pages
+4. Algorithms -- Applies algorithms to the index to find the best fitting and relevant results for your search
+5. Relevant results ^^
+6. Ranking -- Search engine ranks all relevant results so you've the highest quality results from search
+7. Quality of web page -- how often updated, how well written, how well linked -- determines search ranking
 
 ### 3. One of the best one page guide to what the internet is and how it works from MDN    
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work#Summary  
