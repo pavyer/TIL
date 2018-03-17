@@ -3,8 +3,16 @@ Resources from [The Odin Project](https://www.theodinproject.com/courses/web-dev
 Resources that are useful and have stuff worth remembering
 
 
-**1. Short animated video on how the web works at a very big picture level**  
+## 1. Short animated video on how the web works at a very big picture level
 https://vimeo.com/128575085
+**Key words from the video**
+1. Network -- connecting all the nests together with wires.
+2. Protocols -- Predefined and agreed upon means of exchaning info or messages across the network. Can't just send some aribitrary signal over the network and have it be understood
+3. Packets -- break up messages to send. has to and from info and instructions on how it fits together with other packets to make the actual message.
+4. IP Addresses each nest has a unique address
+5. DNS servers -- Giant address books for looking up the destination nest
+6. Routers -- for moving packets across the network 
+
 
 **2. Short animated video on how search works at a very big picture level**  
 https://vimeo.com/128573018
