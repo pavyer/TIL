@@ -44,6 +44,8 @@ Internet is simply a network of networks. And you can keep on scaling this and k
 
 ### 4.Ok guide to how the internet works without too much of the details, but the right model for understanding the web and internet    
 https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be&t=46s  
+  
+Redundant after the first three
 
 ### 5.Difference b/w common terms. Ehh    
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#Summary  
