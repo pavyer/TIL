@@ -54,6 +54,9 @@ Worth a quick skim.
 
 ### 6. Explanation of client-server model of web from MDN. Ehh    
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#Clients_and_servers  
+  
+Ok. Introduces the notion of protocols used for client/server communication between say a browser on a user computer and a sever serving google.com. 
+TCP/IP stack and HTTP being the application protocol on top of the TCP/IP stack for enabling communication between the browser and the google server. And of course HTTP packets being sent back and forth during such communication and use of DNS lookup to find the server for google.com.
 
 ### 7. Entertaining and very informative video on how DNS works  
 https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s  
@@ -62,5 +65,5 @@ https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s
 This seems to hide the details.  
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name#How_does_a_DNS_request_work  
 
-### 9. One of the best books on HTTP    
+### 9. One of the best intro books on HTTP    
 https://launchschool.com/books/http
