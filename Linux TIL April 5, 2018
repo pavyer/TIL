@@ -1,6 +1,6 @@
 **Biggest learning is that if you use UNIQ before sorting or SORT then your results will be wrong. Found this out with file analysis for important data files.**
 
-h3. Found this out when using awk to eliminate duplicates:
+Found this out when using awk to eliminate duplicates:
 
 https://unix.stackexchange.com/questions/30173/how-to-remove-duplicate-lines-inside-a-text-file
 
