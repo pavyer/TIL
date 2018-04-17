@@ -10,3 +10,7 @@ https://softwareengineering.stackexchange.com/questions/9761/how-to-visualize-co
 **Printing a line in a file**
 
 https://stackoverflow.com/questions/191364/quick-unix-command-to-display-specific-lines-in-the-middle-of-a-file
+
+**Total as last row in sql**
+
+https://stackoverflow.com/questions/10433885/how-do-i-add-a-total-as-the-last-row-in-my-sql
