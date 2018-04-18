@@ -18,3 +18,7 @@ https://stackoverflow.com/questions/10433885/how-do-i-add-a-total-as-the-last-ro
 **Checking if a field in mysql is numeric**
 
 https://stackoverflow.com/questions/75704/how-do-i-check-to-see-if-a-value-is-an-integer-in-mysql
+
+**Valid Class Names in Java**
+
+https://stackoverflow.com/questions/65475/valid-characters-in-a-java-class-name
