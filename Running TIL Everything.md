@@ -14,3 +14,7 @@ https://stackoverflow.com/questions/191364/quick-unix-command-to-display-specifi
 **Total as last row in sql**
 
 https://stackoverflow.com/questions/10433885/how-do-i-add-a-total-as-the-last-row-in-my-sql
+
+**Checking if a field in mysql is numeric**
+
+https://stackoverflow.com/questions/75704/how-do-i-check-to-see-if-a-value-is-an-integer-in-mysql
