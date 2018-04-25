@@ -22,3 +22,9 @@ https://stackoverflow.com/questions/75704/how-do-i-check-to-see-if-a-value-is-an
 **Valid Class Names in Java**
 
 https://stackoverflow.com/questions/65475/valid-characters-in-a-java-class-name
+
+**Java Ecosystem**
+https://www.reddit.com/r/java/comments/24d7kz/how_to_switch_to_the_java_ecosystem_what/
+
+https://stackoverflow.com/questions/2993219/start-with-java-jvm-ecosystem
+
