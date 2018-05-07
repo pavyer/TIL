@@ -48,7 +48,7 @@ https://www.google.com/search?q=linux+copy+a+single+hidden+file&oq=linux+copy+a+
 
 From https://stackoverflow.com/questions/10038188/searching-tabs-with-grep
 
-**Good way of integrating tabs in regexs for Grep MacOS **
+**Good way of integrating tabs in regexs for Grep MacOS**  
     ```
     TAB=`echo -e "\t"`
     grep "A${TAB}B" File.tsv
@@ -64,7 +64,7 @@ testing=`date`
 The shell runs the command within the backticks and assigns the output to the variable testing.
 https://www.linuxtechi.com/variables-in-shell-scripting/
   
-** Using curly braces around shell variables **
+**Using curly braces around shell variables**  
 https://stackoverflow.com/questions/8748831/when-do-we-need-curly-braces-around-shell-variables
 `var=10` for assignment
     ```
