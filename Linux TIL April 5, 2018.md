@@ -49,10 +49,10 @@ https://www.google.com/search?q=linux+copy+a+single+hidden+file&oq=linux+copy+a+
 From https://stackoverflow.com/questions/10038188/searching-tabs-with-grep
 
 **Good way of integrating tabs in regexs for Grep MacOS**  
-    ```
-    TAB=`echo -e "\t"`
-    grep "A${TAB}B" File.tsv
-    ```
+```
+TAB=`echo -e "\t"`
+grep "A${TAB}B" File.tsv
+```
 https://stackoverflow.com/questions/10038188/searching-tabs-with-grep
   
 **Enclosing a command in backticks in variable assignment**  
@@ -67,9 +67,9 @@ https://www.linuxtechi.com/variables-in-shell-scripting/
 **Using curly braces around shell variables**  
 https://stackoverflow.com/questions/8748831/when-do-we-need-curly-braces-around-shell-variables
 `var=10` for assignment
-    ```
-    $var      # use the variable
+```
+$var      # use the variable
 ${var}    # same as above
 ${var}bar # expand var, and append "bar" too
 $varbar   # same as ${varbar}, i.e expand a variable called varbar, if it exists.
-    ```
+```
