@@ -34,3 +34,11 @@ https://stackoverflow.com/questions/18092469/combining-columns-within-a-single-f
 
 **Deleting the first line of a file:**
 https://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file
+
+**Can't copy hidden files and directories as usual**
+https://superuser.com/questions/61611/how-to-copy-with-cp-to-include-hidden-files-and-hidden-directories-and-their-con
+https://superuser.com/questions/830562/how-to-copy-hidden-starting-with-a-dot-files-and-subdirectories-in-linux
+
+https://www.google.com/search?q=linux+cp+does+not+copy+hidden+files&oq=linux+cp+doesn+&aqs=chrome.2.69i57j0l5.5694j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=linux+copy+a+single+hidden+file&oq=linux+copy+a+single+hidden+file&aqs=chrome..69i57.6894j1j7&sourceid=chrome&ie=UTF-8
