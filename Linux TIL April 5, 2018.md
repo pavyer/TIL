@@ -35,7 +35,7 @@ https://stackoverflow.com/questions/18092469/combining-columns-within-a-single-f
 **Deleting the first line of a file:**
 https://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file
 
-**Can't copy hidden files and directories as usual**
+**Can't copy hidden files and directories as usual**  
 https://superuser.com/questions/61611/how-to-copy-with-cp-to-include-hidden-files-and-hidden-directories-and-their-con
 https://superuser.com/questions/830562/how-to-copy-hidden-starting-with-a-dot-files-and-subdirectories-in-linux
 
