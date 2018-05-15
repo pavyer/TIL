@@ -28,8 +28,8 @@ https://www.reddit.com/r/java/comments/24d7kz/how_to_switch_to_the_java_ecosyste
 
 https://stackoverflow.com/questions/2993219/start-with-java-jvm-ecosystem
 
-** Backing up only MySQL routines**
+**Backing up only MySQL routines**  
 https://dba.stackexchange.com/questions/4086/dump-only-the-stored-procedures-in-mysql
 
-** Git renaming master branch **
+**Git renaming master branch**  
 https://stackoverflow.com/questions/1526794/rename-master-branch-for-both-local-and-remote-git-repositories
