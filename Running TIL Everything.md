@@ -34,6 +34,6 @@ https://dba.stackexchange.com/questions/4086/dump-only-the-stored-procedures-in-
 **Git renaming master branch**  
 https://stackoverflow.com/questions/1526794/rename-master-branch-for-both-local-and-remote-git-repositories  
 
-**(?i) pattern meaning**
+**(?i) pattern meaning**  
 https://stackoverflow.com/questions/15145659/what-do-i-and-i-in-regex-mean  
 https://www.regular-expressions.info/modifiers.html
