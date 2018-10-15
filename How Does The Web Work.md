@@ -7,13 +7,14 @@ Resources that are useful and have stuff worth remembering
 https://vimeo.com/128575085  
   
 **Key words from the video**
-1. Network -- connecting all the nests together with wires.
+1. Network -- connecting all the nests/nodes together with wires.
 2. Protocols -- Predefined and agreed upon means of exchaning info or messages across the network. Can't just send some aribitrary signal over the network and have it be understood
 3. Packets -- break up messages to send. has to and from info and instructions on how it fits together with other packets to make the actual message.
 4. IP Addresses -- each nest has a unique address
 5. DNS servers -- Giant address books for looking up the destination nest
 6. Routers -- for moving packets across the network 
 
+So you nodes and if you can find some way of connecting the nodes and passing meaningful information back and forth between the nodes, you have a network.
 
 ### 2. Short animated video on how search works at a very big picture level  
 https://vimeo.com/128575084  
