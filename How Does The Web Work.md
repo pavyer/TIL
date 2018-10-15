@@ -34,7 +34,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Int
 Can't really do justice to the write up through a summary. The one page is a really summary of the internet and the web and provides a really good understanding and model for reasoning about the internet and the services built on top of it, of which the Web is an example.
   
 1. Difference between router and modem?
-   Router is just a computer albiet a special one just for routing packets between computers/servers connected to the router.
+   Router is just a computer albeit a special one just for routing packets between computers/servers connected to the router.
    Modem is a device that converts HTTP packets into packets that can be sent over phone lines/copper cables and does the opposite as well.
 2. What is a router?
 3. What is a modem?
