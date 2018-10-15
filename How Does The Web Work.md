@@ -42,6 +42,18 @@ Can't really do justice to the write up through a summary. The one page is a rea
   
 Internet is simply a network of networks. And you can keep on scaling this and keeping on adding networks and keep on linking the networks. And run whatever service you want to over the network. Web, email, IRC, FTP or some other service. SSH is a protocol not a service. There's a SSH daemon or service on SSH servers to which SSH clients connect. 
 
+Well, there is also a case for thinking of SSH as a service since you do have a SSH server on a remote machine that is always running and you can communicate with that using the SSH protocol.
+
+Like even the Web, you have web apps running on web servers and you (the browser) can make requests to the web servers using the HTTP protocol.
+
+So there's a one to one mapping between services/servers and protocols. You have different types of services running on servers and you can access these services with the associated protocols.
+
+You can communicate with Web servers using the HTTP protocol.
+With SSH servers using SSH protocol.
+With FTP servers using the FTP protocol.
+With email servers using the SMTP protocol.
+And so on.
+
 ### 4.Ok guide to how the internet works without too much of the details, but the right model for understanding the web and internet    
 https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be&t=46s  
   
