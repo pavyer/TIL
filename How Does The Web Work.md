@@ -59,28 +59,44 @@ And so on.
 
 A fibre optic network like FIOS doesn't need to use a modem since copper cables are not being used. That's the reason why you only need a router to connect to FIOS. You don't need a modem to connect to FIOS. 
 
-### 4.Ok guide to how the internet works without too much of the details, but the right model for understanding the web and internet    
-https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be&t=46s  
-  
-Redundant after the first three
-
-### 5.Difference b/w common terms. Ehh    
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#Summary  
-  
-Worth a quick skim.
-
-### 6. Explanation of client-server model of web from MDN. Ehh    
+### 4. Explanation of client-server model of web from MDN    
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#Clients_and_servers  
   
 Ok. Introduces the notion of protocols used for client/server communication between say a browser on a user computer and a sever serving google.com. 
 TCP/IP stack and HTTP being the application protocol on top of the TCP/IP stack for enabling communication between the browser and the google server. And of course HTTP packets being sent back and forth during such communication and use of DNS lookup to find the server for google.com.
 
-### 7. Entertaining and very informative video on how DNS works  
-https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s  
+Worth rereading to lay down the mental model of how the protocols and data exchange between clients and servers happens.   
 
-### 8.DNS from MDN. Pretty well written. Slightly differs in how it presents implementation when compared to the above video.
+### 5.DNS from MDN. Pretty well written. Slightly differs in how it presents implementation when compared to the above video.
 This seems to hide the details.  
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name#How_does_a_DNS_request_work  
 
-### 9. One of the best intro books on HTTP    
+It does hide the details but accurately presents the high level steps in a DNS lookup. 
+
+The most significant point here is that the DNS lookup starts with your computer. The browser is not directly communicating with a DNS server. The browser is asking your computer for the IP address and the computer then in turn is asking a DNS server for the IP address to provide to the browser. 
+
+Don't know how the computer is communicating with a DNS server.
+Fascinating. So, the computer is getting it's IP address and IP address of the DNS server to use from the DHCP server which is run on the router? Yes the router is being used as a DHCP server. Example: https://www.verizonwireless.com/support/knowledge-base-65774/. So the DHCP server in turn fetch it's IP address and the IP address of the DNS servers to use from the ISP's DHCP server. 
+So you can change the settings of either your computer or your local DHCP server running on your router to use different DNS servers such as Open DNS or Google DNS. 
+
+This is a good evolution and background of DNS: http://www.steves-internet-guide.com/dns-guide-beginners/
+Some good answers on how a computer knows which DNS to use: https://www.quora.com/How-does-the-computer-know-which-DNS-server-to-use
+
+
+### 5. One of the best intro books on HTTP    
 https://launchschool.com/books/http
+
+
+### 6.Difference b/w common terms. Ehh    
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#Summary  
+  
+Worth a quick skim.
+
+### 7. Entertaining and informative video on how DNS works  
+https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s  
+
+
+### 8.Ok guide to how the internet works without too much of the details, but the right model for understanding the web and internet    
+https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be&t=46s  
+  
+Redundant after the above resources
