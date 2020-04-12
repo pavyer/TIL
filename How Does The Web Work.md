@@ -77,7 +77,7 @@ The most significant point here is that the DNS lookup starts with your computer
 
 Don't know how the computer is communicating with a DNS server.
 Fascinating. So, the computer is getting it's IP address and IP address of the DNS server to use from the DHCP server which is run on the router? Yes the router is being used as a DHCP server. Example: https://www.verizonwireless.com/support/knowledge-base-65774/. So the DHCP server in turn fetch it's IP address and the IP address of the DNS servers to use from the ISP's DHCP server. 
-So you can change the settings of either your computer or your local DHCP server running on your router to use different DNS servers such as Open DNS or Google DNS. 
+So you can change the settings of either your computer or your local DHCP server running on your router (not sure exactly where, whether computer or router) to use different DNS servers such as Open DNS or Google DNS. 
 
 This is a good evolution and background of DNS: http://www.steves-internet-guide.com/dns-guide-beginners/
 Some good answers on how a computer knows which DNS to use: https://www.quora.com/How-does-the-computer-know-which-DNS-server-to-use
