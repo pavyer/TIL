@@ -1,4 +1,5 @@
 Resources from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/how-does-the-web-work)
+Use the questions from the above page as a starting point for flahscards and spaced memory retrieval paractice.
 
 Resources that are useful and have stuff worth remembering
 
