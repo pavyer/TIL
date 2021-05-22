@@ -81,23 +81,34 @@ Fascinating. So, the computer is getting it's IP address and IP address of the D
 So you can change the settings of either your computer or your local DHCP server running on your router (not sure exactly where, whether computer or router) to use different DNS servers such as Open DNS or Google DNS. 
 
 This is a good evolution and background of DNS: http://www.steves-internet-guide.com/dns-guide-beginners/
-Some good answers on how a computer knows which DNS to use: https://www.quora.com/How-does-the-computer-know-which-DNS-server-to-use
+Some good answers on how a computer knows which DNS to use: https://www.quora.com/How-does-the-computer-know-which-DNS-server-to-use. 
+Best answer from the above Quora answer is this from Robert Love:  
+>We have three questions:
+
+>How does your computer know which DNS server to use? Someone told it. Either manually, in the case of static configuration, or, more likely, automatically, in the case of DHCP, which is a protocol for automatically configuring computers on networks. On your home network, for example, your router obtained DNS server addresses from your ISP. Your router in turn hands those DNS addresses out to the computers in your home.
+
+>Who will maintain the DNS servers? In your home, your ISP. In an enterprise, probably the IT staff. Some folks also use public name servers, such as Google Public DNS, which are maintained by third parties (in this case, Google (company)).
+
+>And who will fill the DNS server with data that contains the IP addresses of domain names? No one. DNS is a hierarchical and distributed system. When your computer attempts to resolve a host name to an IP address and doesn't know the answer, it asks your DNS server. The DNS server probably doesn't know the answer either, so it asks a more authoritative server. In the basic case, this is a root server. Your DNS server is pre-seeded with the addresses of the root servers. The root servers are critical to the operation of DNS. Without them, the Internet would fail to function. Anyhow, your computer asks your DNS server, which in turn asks the root server. The root server returns the authoritative server for the TLD. Say you were resolving rlove.org. The root server would return the dot org server. So you would then ask the dot org server to resolve rlove.org, who would return rlove.org's name server. Then you'd ask that server, which would finally return rlove.org's IP address. Along the way, servers will cache the results, to avoid the repetition of this dance.`
 
 
-### 5. One of the best intro books on HTTP    
+### 6. Entertaining and informative video on how DNS works  
+https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s  
+
+Also further resources based on googling "resolving name server", "root server". 
+1. https://www.cloudns.net/wiki/article/202/. 
+2. https://www.cloudflare.com/en-in/learning/dns/what-is-dns/. 
+3. https://www.netnod.se/i-root/what-are-root-name-servers
+4. https://www.cloudflare.com/en-in/learning/dns/glossary/dns-root-server/. 
+5. https://www.cloudflare.com/learning/dns/dns-server-types/. 
+6. https://umbrella.cisco.com/blog/what-is-the-difference-between-authoritative-and-recursive-dns-nameservers. 
+7. https://ns1.com/resources/what-is-dns. 
+
+### 7. One of the best intro books on HTTP    
 https://launchschool.com/books/http
 
 
-### 6.Difference b/w common terms. Ehh    
+### 8.Difference b/w common terms. Ehh    
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#Summary  
   
 Worth a quick skim.
-
-### 7. Entertaining and informative video on how DNS works  
-https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s  
-
-
-### 8.Ok guide to how the internet works without too much of the details, but the right model for understanding the web and internet    
-https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be&t=46s  
-  
-Redundant after the above resources
