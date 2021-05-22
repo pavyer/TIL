@@ -1,4 +1,4 @@
-Resources from [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
+Resources from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/how-does-the-web-work)
 
 Resources that are useful and have stuff worth remembering
 
