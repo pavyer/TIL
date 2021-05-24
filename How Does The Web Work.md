@@ -66,7 +66,11 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_
 Ok. Introduces the notion of protocols used for client/server communication between say a browser on a user computer and a sever serving google.com. 
 TCP/IP stack and HTTP being the application protocol on top of the TCP/IP stack for enabling communication between the browser and the google server. And of course HTTP packets being sent back and forth during such communication and use of DNS lookup to find the server for google.com.
 
-Worth rereading to lay down the mental model of how the protocols and data exchange between clients and servers happens.   
+Worth rereading to lay down the mental model of how the protocols and data exchange between clients and servers happens.
+
+**This is great:**
+https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm. 
+
 
 ### 5.DNS from MDN. Pretty well written. Slightly differs in how it presents implementation when compared to the above video.
 This seems to hide the details.  
