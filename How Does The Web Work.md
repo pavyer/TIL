@@ -102,11 +102,12 @@ https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s
 Also further resources based on googling "resolving name server", "root server". 
 1. https://www.cloudns.net/wiki/article/202/. 
 2. https://www.cloudflare.com/en-in/learning/dns/what-is-dns/. 
-3. https://www.netnod.se/i-root/what-are-root-name-servers
-4. https://www.cloudflare.com/en-in/learning/dns/glossary/dns-root-server/. 
+3. https://www.cloudflare.com/en-in/learning/dns/glossary/dns-root-server/. 
+4. https://www.cloudflare.com/learning/dns/dns-records -- Different types of DNS records. How information is stored in DNS servers.  
 5. https://www.cloudflare.com/learning/dns/dns-server-types/. 
-6. https://umbrella.cisco.com/blog/what-is-the-difference-between-authoritative-and-recursive-dns-nameservers. 
-7. https://ns1.com/resources/what-is-dns. 
+6. https://www.netnod.se/i-root/what-are-root-name-servers
+7. https://umbrella.cisco.com/blog/what-is-the-difference-between-authoritative-and-recursive-dns-nameservers. 
+8. https://ns1.com/resources/what-is-dns. 
 
 The dot at the end of a url -- what does it mean? Answer -- fully-qualified (unambiguous) DNS domain names have a dot at the end.  
 A domain name that doesn't have a dot at the end is not fully-qualified and is potentially ambiguous.  
