@@ -80,6 +80,15 @@ Worth rereading to lay down the mental model of how the protocols and data excha
 3. https://stevessmarthomeguide.com/understanding-dhcp-home-networks/. 
 4. https://www.reddit.com/r/networking/comments/2cn98m/how_do_isps_do_dhcp/. 
 
+### 4.2 DHCP vs NAT. 
+1. https://learningnetwork.cisco.com/s/question/0D53i00000Kt30y/why-use-dhcp-when-you-can-just-use-nat. 
+2. https://networkengineering.stackexchange.com/questions/51263/what-is-the-difference-between-dhcp-and-nat. 
+3. https://superuser.com/questions/1446961/whats-the-difference-between-dhcp-and-nat-are-they-mutually-exclusive. 
+
+### 4.3 OSI Model vs Internet Protocol Suite
+5. https://mkdev.me/en/posts/how-networks-work-what-is-a-switch-router-dns-dhcp-nat-vpn-and-a-dozen-of-other-useful-things. 
+6. https://en.wikipedia.org/wiki/OSI_model. 
+7. https://en.wikipedia.org/wiki/Internet_protocol_suite. 
 
 ### 5.DNS from MDN. Pretty well written. Slightly differs in how it presents implementation when compared to the above video.
 This seems to hide the details.  
