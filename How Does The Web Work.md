@@ -60,16 +60,19 @@ And so on.
 
 A fibre optic network like FIOS doesn't need to use a modem since copper cables are not being used. That's the reason why you only need a router to connect to FIOS. You don't need a modem to connect to FIOS. 
 
-### 4. Explanation of client-server model of web from MDN    
+### 4. How the internent works full big picture TCP/IP Vs HTTP and others
+
+**This is great:**
+https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm. 
+
+The above is far and above a higher quality resource than the MDN page and so supersedes the MDN resource.
+
+Let this just be here. But don't worry about this anymore.
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#Clients_and_servers  
   
 Ok. Introduces the notion of protocols used for client/server communication between say a browser on a user computer and a sever serving google.com. 
 TCP/IP stack and HTTP being the application protocol on top of the TCP/IP stack for enabling communication between the browser and the google server. And of course HTTP packets being sent back and forth during such communication and use of DNS lookup to find the server for google.com.
-
 Worth rereading to lay down the mental model of how the protocols and data exchange between clients and servers happens.
-
-**This is great:**
-https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm. 
 
 ### 4.1 How IP addresses are assigned to routers and computers
 1. https://www.whatismyip.com/what-is-dhcp. 
