@@ -71,6 +71,12 @@ Worth rereading to lay down the mental model of how the protocols and data excha
 **This is great:**
 https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm. 
 
+### 4.1 How IP addresses are assigned to routers and computers
+1. https://www.whatismyip.com/what-is-dhcp. 
+2. https://superuser.com/questions/1505324/how-does-my-isp-send-my-ip-address-to-my-dhcp-server-router. 
+3. https://stevessmarthomeguide.com/understanding-dhcp-home-networks/. 
+4. https://www.reddit.com/r/networking/comments/2cn98m/how_do_isps_do_dhcp/. 
+
 
 ### 5.DNS from MDN. Pretty well written. Slightly differs in how it presents implementation when compared to the above video.
 This seems to hide the details.  
