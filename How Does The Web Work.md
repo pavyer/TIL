@@ -143,6 +143,11 @@ https://stackoverflow.com/questions/6008829/what-does-a-dot-mean-in-a-url-path.
 ### 7. One of the best intro books on HTTP    
 https://launchschool.com/books/http
 
+### 7.1 Sending username, password from client to server
+1. https://stackoverflow.com/questions/7562675/proper-way-to-send-username-and-password-from-client-to-server. 
+2. https://security.stackexchange.com/questions/64631/is-it-safe-to-send-clear-usernames-passwords-on-a-https-connection-to-authentica. 
+3. https://security.stackexchange.com/questions/113393/how-to-securely-transfer-password-from-a-registration-page-to-the-database. 
+
 
 ### 8.Difference b/w common terms. Ehh    
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#Summary  
