@@ -148,6 +148,13 @@ https://launchschool.com/books/http
 2. https://security.stackexchange.com/questions/64631/is-it-safe-to-send-clear-usernames-passwords-on-a-https-connection-to-authentica. 
 3. https://security.stackexchange.com/questions/113393/how-to-securely-transfer-password-from-a-registration-page-to-the-database. 
 
+### 7.2 Cookies, session Management and Security are a separate topic in themselves. Some questions on those:
+1. How are cookies sent in HTTP requests: https://stackoverflow.com/questions/3467114/how-are-cookies-passed-in-the-http-protocol, https://flaviocopes.com/cookies/. 
+2. Cookies versuse sessions I don't understand this part well: https://stackoverflow.com/questions/6253633/cookies-vs-sessions because cookies are a means for session management. They are not the same. 
+3. What are all the different things with session management? Just some basic security related points note:https://www.geeksforgeeks.org/session-management-in-http/. 
+4. https://stackoverflow.com/questions/10960131/authentication-authorization-and-session-management-in-traditional-web-apps-and. 
+5. *** https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/. Starting point.  
+6. https://security.stackexchange.com/questions/49636/can-a-webpage-read-another-pages-cookies. Answers an important question with how cookies are sent to websites. And related to this: https://stackoverflow.com/questions/1336126/does-every-web-request-send-the-browser-cookies. 
 
 ### 8.Difference b/w common terms. Ehh    
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#Summary  
