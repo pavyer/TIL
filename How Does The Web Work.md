@@ -115,9 +115,9 @@ Best answer from the above Quora answer is this from Robert Love:
 
 
 ### 6. Entertaining and informative video on how DNS works  
-https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s  
+https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s. 
 
-Also further resources based on googling "resolving name server", "root server". 
+### 6.1 Also further resources based on googling "resolving name server", "root server". 
 1. https://www.cloudns.net/wiki/article/202/. 
 2. https://www.cloudflare.com/en-in/learning/dns/what-is-dns/. 
 3. https://www.cloudflare.com/en-in/learning/dns/glossary/dns-root-server/. 
@@ -127,14 +127,14 @@ Also further resources based on googling "resolving name server", "root server".
 7. https://umbrella.cisco.com/blog/what-is-the-difference-between-authoritative-and-recursive-dns-nameservers. 
 8. https://ns1.com/resources/what-is-dns. 
 
-The dot at the end of a url -- what does it mean? Answer -- fully-qualified (unambiguous) DNS domain names have a dot at the end.  
+### 6.2 The dot at the end of a url -- what does it mean? Answer -- fully-qualified (unambiguous) DNS domain names have a dot at the end.  
 A domain name that doesn't have a dot at the end is not fully-qualified and is potentially ambiguous.  
 Resources:
 1. https://serverfault.com/questions/803033/should-i-append-a-dot-at-the-end-of-my-dns-urls. 
 2. https://webmasters.stackexchange.com/questions/73934/how-can-urls-have-a-dot-at-the-end-e-g-www-bla-de/73937. 
 3. https://superuser.com/questions/1467958/why-does-putting-a-dot-after-the-url-remove-login-information/1467966. 
 
-On the difference between relative paths, absolute paths and relative URLs and absolute URLs.
+### 6.3 On the difference between relative paths, absolute paths and relative URLs and absolute URLs.
 --> You can have an absolute path which is part of a url. Or relative to the url. It's not a relative path in itself.
 
 https://stackoverflow.com/questions/6008829/what-does-a-dot-mean-in-a-url-path. 
