@@ -116,6 +116,7 @@ Best answer from the above Quora answer is this from Robert Love:
 
 ### 6. Entertaining and informative video on how DNS works  
 https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s. 
+The video mentions that a browser automatically adds a "." dot at the end of the URL typed into the browser that denotes the root DNS server. I don't think that's true because I didn't find any relevant results when I searched for the question "do browsers add a dot to the end of the URLs typed in the address bar"
 
 ### 6.1 Also further resources based on googling "resolving name server", "root server". 
 1. https://www.cloudns.net/wiki/article/202/. 
